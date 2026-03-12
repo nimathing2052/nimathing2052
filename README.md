@@ -22,8 +22,11 @@ I work at the intersection of data science, social media, politics, and public p
 
 **Frameworks & Tools:**
 - Web: React, Django, FastAPI, Flask
-- Data Pipeline: Large-scale online datasets, web scraping (Selenium, BeautifulSoup, Botasaurus, Playwright), SQL
-- DevOps: Git, Docker, AWS
+- Data Science: Machine Learning/Deep Learning (PyTorch, Spark, Scikit-learnHuggingface), Computer Vision (CLIP), Natural Language Processing (Transformers, BERTopic), Data Visualization (PowerBI, Matplotlib, Plotly), SQL
+- Data Governance: Microsoft Purview, OpenMetadata, Apache Airflow
+- Cloud: AWS, Microsoft Fabric, Databricks, Snowflake, ETL
+- Automation/Web-scraping/Data Pipeline: Web scraping (Selenium, BeautifulSoup, Botasaurus, Playwright), Postman, ETL, Spark, Microsoft Synapse
+- DevOps: Git, Docker, AWS, Atlassian Bamboo
 
 **Languages:**
 - English (Fluent), Nepali (Native), Hindi (Professional), German (A2), Tibetan (Basic)
