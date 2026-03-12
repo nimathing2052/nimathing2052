@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there 👋 I'm Nima Thing
 
-<!--
-**nimathing2052/nimathing2052** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a recent graduate of Data Science for Public Policy (2023-2025) at the Hertie School, Berlin, Germany. Originally from Kathmandu, Nepal, I'm currently based in Berlin.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work at the intersection of data science, social media, politics, and public policy. I'm passionate about combining computer science and engineering methods with social science research to explore political virality, disinformation, populism, and hate speech.
+
+### Current Endeavours
+
+**Non-Profit Work:**
+- Applied Research Engineer at [Logiq Media](https://www.logiq.media/about) (Jan 2026 - present) — A Berlin-based non-profit helping governments and civil society address polarization, disinformation, and populism.
+
+**Research:**
+- Volunteer Researcher with Prof. [Dilrukshi Gamage](https://www.dilrukshigamage.org/) on the [South Asia Deepfake Detection](https://sites.google.com/view/south-asia-deepfake-detection/team?authuser=0) project (Nov 2025 - present)
+- Weekly participant in Data Lunch Seminar with [The Open Institute for Social Science](https://theopen.institute/) — exploring Bayesian Statistics using Richard McElreath's [Statistical Rethinking](https://github.com/rmcelreath/stat_rethinking_2026) (Nov 2025 - present)
+
+## Skills & Interests
+
+**Programming Languages:**
+- Python (Intermediate), Java (Basic), TypeScript (Basic), R (Basic)
+
+**Frameworks & Tools:**
+- Web: React, Django, FastAPI, Flask
+- Data Pipeline: Large-scale online datasets, web scraping (Selenium, BeautifulSoup, Botasaurus, Playwright), SQL
+- DevOps: Git, Docker, AWS
+
+**Languages:**
+- English (Fluent), Nepali (Native), Hindi (Professional), German (A2), Tibetan (Basic)
+
+## Projects
+
+⭐ Check out my repositories to see my work in computational social science and data science!
+
+## Let's Connect
+
+I'm actively looking for opportunities to collaborate on **computational social science research**, particularly in data science, social media analysis, and political disinformation.
+
+- [LinkedIn](https://www.linkedin.com/in/nima-thing/)
+- **Email:** nimathing1995@gmail.com
+
+---
+
+*Feel free to reach me there if you'd like to discuss research collaboration or have any questions!*
