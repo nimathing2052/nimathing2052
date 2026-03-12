@@ -9,7 +9,7 @@ I work at the intersection of data science, social media, politics, and public p
 ### Current Endeavours
 
 **Non-Profit Work:**
-- Applied Research Engineer at [Logiq Media](https://www.logiq.media/about) (Jan 2026 - present) — A Berlin-based non-profit helping governments and civil society address polarization, disinformation, and populism.
+- Applied Research Engineer at [Logiq Media](https://www.logiq.media/about) (Jan 2026 - present) — A Berlin-based non-profit helping governments and civil society address polarization, disinformation, and populism. (voluntary work)
 
 **Research:**
 - Volunteer Researcher with Prof. [Dilrukshi Gamage](https://www.dilrukshigamage.org/) on the [South Asia Deepfake Detection](https://sites.google.com/view/south-asia-deepfake-detection/team?authuser=0) project (Nov 2025 - present)
