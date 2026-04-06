@@ -25,7 +25,7 @@ I work at the intersection of data science, social media, politics, and public p
 * **Poster Presentations (2025):** * [SICSS (Saarbrücken)](https://drive.google.com/file/d/1N3ko6H24G8DvNwQuLrLD8tZmTYEbsAI1/view?usp=sharing)
     * [Max Planck Institute for Human Development (Berlin)](https://drive.google.com/file/d/16UR118LnK3kvLxS1W6zFUd9WWYzinnN5/view?usp=sharing)
 
-### [Deploying DistilBERT to Detect and Mitigate Information Bias](https://colab.research.google.com/drive/15V6bZnLlEvDTRuMDE3SxCeiUmMbFoiR3)
+### [Deploying DistilBERT to Detect and Mitigate Information Bias]
 * **Conference:** SSaLM: Social Science and Language Models Conference, Weizenbaum Institute | *2025*
 * [View Conference Program](https://lppohl.github.io/wi-workshop.github.io/content/0-program.html)
 
