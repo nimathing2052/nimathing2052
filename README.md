@@ -9,7 +9,9 @@ I work at the intersection of data science, social media, politics, and public p
 ### Current Endeavours
 
 **Non-Profit Work:**
-- Applied Research Engineer at [Logiq Media](https://www.logiq.media/about) (Jan 2026 - present) — A Berlin-based non-profit helping governments and civil society address polarization, disinformation, and populism. (voluntary work)
+- Computational Social Science Researcher at [Logiq Media](https://www.logiq.media/about) (Jan 2026 - present) — A Berlin-based non-profit helping governments and civil society address polarization, disinformation, and populism.
+- Currently working on a project related to disinformation called [SHIFT](https://science.rsu.lv/en/projects/shaping-informed-frameworks-for-trust/)(Shaping Informed Frameworks for Trust) under European Narrative Observatory. 
+- Co-authored and implemented zero-shot stance classification to analyze comparative fact-checking echo-chambers on social platforms across 10+ platforms.
 
 **Research:**
 - Consulting [pei.centre](https://pei.center/) with computational analysis of GenZ mobilization of several social media platforms such as Facebook, Instagram and Reddits (methods: hashtag-coccurence, Time series analysis, Network Analysis) [March 2026 - current]
