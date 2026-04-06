@@ -41,9 +41,13 @@ I work at the intersection of data science, social media, politics, and public p
 * **Key Insight:** Examined stance polarization around high-profile news events.
 * 📊 [**View Project Slides**](https://drive.google.com/file/d/1kcsgxSgPpxD5LwJj0gTxsK6gtXpD5Had/view?usp=sharing)
 
+## Research Proposal
+
 ### [Mapping Elite Attention Ecosystems on Instagram: Gen-Z-Salient Political Attention in Nepal](https://drive.google.com/file/d/1LayaeEgQWoKNJVNmQkvySuIHHifvFBm4/view?usp=sharing)
 * **Network Analysis Project** | *Jan 2026*
 * **Core Research:** Exploratory mapping of the "social DNA" of a digital Gen-Z movement in Nepal, focusing on Instagram's most influential activist networks.
+
+(Submitted at https://www.icwsm.org/2026/submit.html, but not accepted)
 
 ## Skills & Interests
 
