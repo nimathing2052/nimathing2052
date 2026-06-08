@@ -9,19 +9,19 @@ I work at the intersection of data science, social media, politics, and public p
 ### Current Endeavours
 
 **Non-Profit Work: (Jan 2026 - Current)**
-- Computational Social Science Researcher at [Logiq Media](https://www.logiq.media/about) (Jan 2026 - present) — A Berlin-based non-profit helping governments and civil society address polarization, disinformation, and populism.
+- Computational Social Science Researcher at [Logiq Media](https://www.logiq.media/about) (Jan 2026 (volunteer), Feb 2026 - present (contract)) — A Berlin-based non-profit helping governments and civil society address polarization, disinformation, and populism.
 - Currently working on a project related to disinformation called [SHIFT](https://science.rsu.lv/en/projects/shaping-informed-frameworks-for-trust/)(Shaping Informed Frameworks for Trust) under European Narrative Observatory. 
 - Co-authored and implemented zero-shot stance classification to analyze comparative fact-checking echo-chambers on social platforms across 10+ platforms (Currently under review at Harvard Kennedy School, HKS Misinformation Review)
 
 **Research:**
-- Consulting [pei.centre](https://pei.center/) with computational analysis of Nepalese Gen-Z mobilization on several social media platforms (Facebook, TikTok and Reddit) (methods: hashtag-coccurence, Time series analysis, Network Analysis) [March 2026 - current]
-- Volunteer Researcher with Prof. [Dilrukshi Gamage](https://www.dilrukshigamage.org/) on the [South Asia Deepfake Detection](https://sites.google.com/view/south-asia-deepfake-detection/team?authuser=0) project (Nov 2025 - present)
-- Weekly participant in Data Lunch Seminar with [The Open Institute for Social Science](https://theopen.institute/) — exploring Bayesian Statistics using Richard McElreath's [Statistical Rethinking](https://github.com/rmcelreath/stat_rethinking_2026) (Nov 2025 - present)
+- Consultated and provided [pei.centre](https://pei.center/) with computational analysis of Nepalese Gen-Z mobilization on several social media platforms (Facebook, TikTok and Reddit) (methods: hashtag-coccurence, Time series analysis, Network Analysis) [March 2026 - current]. Currently collaborating on qualitative digital ethnography piece. 
+- Volunteer Researcher with Prof. [Dilrukshi Gamage](https://www.dilrukshigamage.org/) on the [South Asia Deepfake Detection](https://sites.google.com/view/south-asia-deepfake-detection/team?authuser=0) project (Nov 2025 - Feb 2026)
+- Weekly participant in Data Lunch Seminar with [The Open Institute for Social Science](https://theopen.institute/) — exploring Bayesian Statistics using Richard McElreath's [Statistical Rethinking](https://github.com/rmcelreath/stat_rethinking_2026) (Nov 2025 - Feb 2026)
 
 ## 🎤 Selected Presentations & Research
 
 ### [TikTok Virality and Political Engagement in Nepal's 2022 Election](https://github.com/nimathing2052/Thesis/blob/main/Nima_Thing_MSc_Thesis_revised.pdf)
-* **Upcoming:** Turkey Computational Social Sciences Conference (TCSS), [Koç University](https://research.ku.edu.tr/research-infrastructure/research-centers-and-units/ccss/), Istanbul | *April 24-25, 2026*
+* **Presentation:** Turkey Computational Social Sciences Conference (TCSS), [Koç University](https://research.ku.edu.tr/research-infrastructure/research-centers-and-units/ccss/), Istanbul | *April 24-25, 2026*
 * **Poster Presentations (2025):** * [SICSS (Saarbrücken)](https://drive.google.com/file/d/1N3ko6H24G8DvNwQuLrLD8tZmTYEbsAI1/view?usp=sharing)
     * [Max Planck Institute for Human Development (Berlin)](https://drive.google.com/file/d/16UR118LnK3kvLxS1W6zFUd9WWYzinnN5/view?usp=sharing)
 
