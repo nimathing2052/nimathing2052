@@ -14,7 +14,7 @@ I work at the intersection of data science, social media, politics, and public p
 - Co-authored and implemented zero-shot stance classification to analyze comparative fact-checking echo-chambers on social platforms across 10+ platforms (Currently under review at Harvard Kennedy School, HKS Misinformation Review)
 
 **Research:**
-- Consultated and provided [pei.centre](https://pei.center/) with computational analysis of Nepalese Gen-Z mobilization on several social media platforms (Facebook, TikTok and Reddit) (methods: hashtag-coccurence, Time series analysis, Network Analysis) [March 2026 - current]. Currently collaborating on qualitative digital ethnography piece. 
+- Consulted and provided [pei.centre](https://pei.center/) with computational analysis of Nepalese Gen-Z mobilization on several social media platforms (Facebook, TikTok and Reddit) (methods: hashtag-coccurence, Time series analysis, Network Analysis) [Apr 2026 - May 2026]. Currently collaborating on qualitative digital ethnography piece. 
 - Volunteer Researcher with Prof. [Dilrukshi Gamage](https://www.dilrukshigamage.org/) on the [South Asia Deepfake Detection](https://sites.google.com/view/south-asia-deepfake-detection/team?authuser=0) project (Nov 2025 - Feb 2026)
 - Weekly participant in Data Lunch Seminar with [The Open Institute for Social Science](https://theopen.institute/) — exploring Bayesian Statistics using Richard McElreath's [Statistical Rethinking](https://github.com/rmcelreath/stat_rethinking_2026) (Nov 2025 - Feb 2026)
 
