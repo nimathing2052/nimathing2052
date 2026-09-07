@@ -2,14 +2,14 @@
 
 ## About Me
 
-I am a recent graduate of Data Science for Public Policy (2023-2025) at the Hertie School, Berlin, Germany. Originally from Kathmandu, Nepal, I'm currently based in Berlin.
+I am a MSc. graduate of Data Science for Public Policy (2023-2025) at the Hertie School, Berlin, Germany having 7+ years work experience spanning across Software Engineering (Quality Assurance), Data Science and Social Science. I'm originally from Kathmandu, Nepal, and I'm currently based in Berlin.
 
-I work at the intersection of data science, social media, politics, and public policy. I'm passionate about combining computer science and engineering methods with social science research to explore political virality, disinformation, populism, and hate speech.
+My current research interest and professional endeavor is focused  around the intersection of data science, social media, politics, and public policy. I'm passionate about combining computer science and engineering methods with social science research to explore political virality, disinformation, populism, and hate speech. 
 
 ### Current Endeavours
 
 **Non-Profit Work: (Jan 2026 - Current)**
-- Computational Social Science Researcher at [Logiq Media](https://www.logiq.media/about) (Jan 2026 (volunteer), Feb 2026 - present (contract)) — A Berlin-based non-profit helping governments and civil society address polarization, disinformation, and populism.
+- Computational Social Science Researcher at [Logiq Media](https://www.logiq.media/about) (Jan 2026 (volunteer), Apr. 2026 - present (contract)) — A Berlin-based non-profit helping governments and civil society address polarization, disinformation, and populism.
 - Currently working on a project related to disinformation called [SHIFT](https://science.rsu.lv/en/projects/shaping-informed-frameworks-for-trust/)(Shaping Informed Frameworks for Trust) under European Narrative Observatory. 
 - Co-authored and implemented zero-shot stance classification to analyze comparative fact-checking echo-chambers on social platforms across 10+ platforms (Currently under review at Harvard Kennedy School, HKS Misinformation Review)
 
