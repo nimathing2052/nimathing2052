@@ -16,3 +16,5 @@ I am a software engineer turned computational social scientist, based in Berlin 
 - Research assistance for the University of Bern and the Weizenbaum Institute on LLMs, antisemitic content, and disinformation exposure.
 
 More projects and all talks are on [my website](https://nimathing.com/projects/).
+
+Last updated: 27 Oct. 2026
