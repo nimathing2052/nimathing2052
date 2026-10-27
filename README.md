@@ -1,81 +1,18 @@
 # Hi there 👋 I'm Nima Thing
 
-## About Me
+I am a software engineer turned computational social scientist, based in Berlin and originally from Kathmandu, Nepal. I study political communication online: who gets seen and believed, and why. My work so far has focused on political virality, disinformation, and hate speech, mostly in Nepal and, through my current work, in Europe.
 
-I am a MSc. graduate of Data Science for Public Policy (2023-2025) at the Hertie School, Berlin, Germany having 7+ years work experience spanning across Software Engineering (Quality Assurance), Data Science and Social Science. I'm originally from Kathmandu, Nepal, and I'm currently based in Berlin.
+**Website:** [nimathing.com](https://nimathing.com) · **CV:** [nimathing.com/cv](https://nimathing.com/cv/) · [LinkedIn](https://www.linkedin.com/in/nima-thing/) · nimathing1995@gmail.com
 
-My current research interest and professional endeavor is focused  around the intersection of data science, social media, politics, and public policy. I'm passionate about combining computer science and engineering methods with social science research to explore political virality, disinformation, populism, and hate speech. 
+### Now
 
-### Current Endeavours
+- Computational social science researcher at [Logiq Media](https://www.logiq.media), working on the EU-funded [SHIFT](https://science.rsu.lv/en/projects/shaping-informed-frameworks-for-trust/) project on disinformation narratives, and leading development of [Elfbot](https://www.logiq.media/elfbot), a human-supervised comment moderation tool.
 
-**Non-Profit Work: (Jan 2026 - Current)**
-- Computational Social Science Researcher at [Logiq Media](https://www.logiq.media/about) (Jan 2026 (volunteer), Apr. 2026 - present (contract)) — A Berlin-based non-profit helping governments and civil society address polarization, disinformation, and populism.
-- Currently working on a project related to disinformation called [SHIFT](https://science.rsu.lv/en/projects/shaping-informed-frameworks-for-trust/)(Shaping Informed Frameworks for Trust) under European Narrative Observatory. 
-- Co-authored and implemented zero-shot stance classification to analyze comparative fact-checking echo-chambers on social platforms across 10+ platforms (Currently under review at Harvard Kennedy School, HKS Misinformation Review)
+### Selected work
 
-**Research:**
-- Consulted and provided [pei.centre](https://pei.center/) with computational analysis of Nepalese Gen-Z mobilization on several social media platforms (Facebook, TikTok and Reddit) (methods: hashtag-coccurence, Time series analysis, Network Analysis) [Apr 2026 - May 2026]. Currently collaborating on qualitative digital ethnography piece. 
-- Volunteer Researcher with Prof. [Dilrukshi Gamage](https://www.dilrukshigamage.org/) on the [South Asia Deepfake Detection](https://sites.google.com/view/south-asia-deepfake-detection/team?authuser=0) project (Nov 2025 - Feb 2026)
-- Weekly participant in Data Lunch Seminar with [The Open Institute for Social Science](https://theopen.institute/) — exploring Bayesian Statistics using Richard McElreath's [Statistical Rethinking](https://github.com/rmcelreath/stat_rethinking_2026) (Nov 2025 - Feb 2026)
+- **[TikTok Virality and Political Engagement in Nepal's 2022 Local Elections](https://github.com/nimathing2052/TikTok_MultiModal_Virality_Prediction)**: MSc thesis, Hertie School (revised 2026). Presented at TCSS 2026 and the University of Potsdam.
+- **Beyond the ban: Co-engagement network signals on Nepali Reddit before the Sep 8 Gen Z protest**: extended abstract in the [SOSEC conference proceedings](https://www.socialsentiment.org/en/news/sosec-conference-proceedings-published/) (2026).
+- **Bias in toxic language detection**: poster at the Global South AI Workshop, IJCAI-ECAI 2026 (Best 3MT Presentation Award).
+- Research assistance for the University of Bern and the Weizenbaum Institute on LLMs, antisemitic content, and disinformation exposure.
 
-## 🎤 Selected Presentations & Research
-
-### [TikTok Virality and Political Engagement in Nepal's 2022 Election](https://github.com/nimathing2052/Thesis/blob/main/Nima_Thing_MSc_Thesis_revised.pdf)
-* **Presentation:** Turkey Computational Social Sciences Conference (TCSS), [Koç University](https://research.ku.edu.tr/research-infrastructure/research-centers-and-units/ccss/), Istanbul | *April 24-25, 2026*
-* **Poster Presentations (2025):** * [SICSS (Saarbrücken)](https://drive.google.com/file/d/1N3ko6H24G8DvNwQuLrLD8tZmTYEbsAI1/view?usp=sharing)
-    * [Max Planck Institute for Human Development (Berlin)](https://drive.google.com/file/d/16UR118LnK3kvLxS1W6zFUd9WWYzinnN5/view?usp=sharing)
-
-### [Deploying DistilBERT to Detect and Mitigate Information Bias]
-* **Conference:** SSaLM: Social Science and Language Models Conference, Weizenbaum Institute | *2025*
-* [View Conference Program](https://lppohl.github.io/wi-workshop.github.io/content/0-program.html)
-
----
-
-## 🛠 Workshops & Summer Schools
-
-### [SICSS-Saarbrücken](https://sicss.io/2025/saarbrucken/) | Saarbrücken, Germany 
-**Participant** | *Sep 8-19, 2025*
-
-* **Project:** Computational study of 156K BlueSky posts as a Group Project.
-* **Methods:** Co-authored zero-shot stance classification (NLP), toxicity analysis, and author-network analysis (46k nodes, 1 community detection).
-* **Key Insight:** Examined stance polarization around high-profile news events.
-* 📊 [**View Project Slides**](https://drive.google.com/file/d/1kcsgxSgPpxD5LwJj0gTxsK6gtXpD5Had/view?usp=sharing)
-
-## Research Proposal
-
-### [Mapping Elite Attention Ecosystems on Instagram: Gen-Z-Salient Political Attention in Nepal](https://drive.google.com/file/d/1LayaeEgQWoKNJVNmQkvySuIHHifvFBm4/view?usp=sharing)
-* **Network Analysis Project** | *Jan 2026*
-* **Core Research:** Exploratory mapping of the "social DNA" of a digital Gen-Z movement in Nepal, focusing on Instagram's most influential activist networks.
-
-(Submitted at https://www.icwsm.org/2026/submit.html, but not accepted)
-
-## Skills & Interests
-
-**Programming Languages:**
-- Python (Intermediate), Java (Basic), TypeScript (Basic), R (Basic)
-
-**Frameworks & Tools:**
-- Web: React, Django, FastAPI, Flask
-- Data Science: Machine Learning/Deep Learning (PyTorch, Spark, Scikit-learnHuggingface), Computer Vision (CLIP), Natural Language Processing (Transformers, BERTopic), Data Visualization (PowerBI, Matplotlib, Plotly), SQL
-- Data Governance: Microsoft Purview, OpenMetadata, Apache Airflow
-- Data Engineering: AWS, Microsoft Fabric, Databricks, Snowflake, ETL
-- Automation/Web-scraping/Data Pipeline: Web scraping (Selenium, BeautifulSoup, Botasaurus, Playwright), Postman, ETL, Spark, Microsoft Synapse
-- DevOps: Git, Docker, AWS, Atlassian Bamboo
-
-**Languages:**
-- English (Fluent), Nepali (Native), Hindi (Professional), German (A2), Tibetan (Basic)
-
-## Projects
-
-⭐ Check out my repositories to see my work in computational social science and data science!
-
-## Let's Connect
-
-I'm actively looking for opportunities to collaborate on **computational social science research**, particularly in data science, social media analysis, and political disinformation.
-
-- [LinkedIn](https://www.linkedin.com/in/nima-thing/)
-- **Email:** nimathing1995@gmail.com
-
----
-
-*Feel free to reach me there if you'd like to discuss research collaboration or have any questions!*
+More projects and all talks are on [my website](https://nimathing.com/projects/).
